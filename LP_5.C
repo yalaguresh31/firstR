@@ -1,3 +1,6 @@
+
+
+//single link list using C programming 
 #include<stdio.h>
 #include<stdlib.h>
 struct node {
@@ -122,4 +125,7 @@ int main() {
     }//end of loop
     return 0;
 }//end of main
+
+
+
 
